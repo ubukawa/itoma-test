@@ -1,0 +1,15 @@
+id: ls-boundary-cty
+type: line
+source: s
+source-layer: boundary
+minzoom: 4
+maxzoom: 8
+filter:
+  - all
+  - - '=='
+    - ftCode
+    - 51221
+layout:
+  line-cap: square
+paint:
+  line-color: rgba(34, 24, 21, 1)

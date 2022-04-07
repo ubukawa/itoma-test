@@ -1,0 +1,8 @@
+id: ls-coastline
+type: line
+source: s
+maxzoom: 9
+minzoom: 4
+source-layer: coastline
+paint:
+  line-color: '#636566'

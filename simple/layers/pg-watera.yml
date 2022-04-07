@@ -1,0 +1,8 @@
+id: pg-watera
+type: fill
+source: s
+source-layer: waterarea
+minzoom: 4
+maxzoom: 7
+paint:
+  fill-color: rgba(46, 0, 255, 1)
